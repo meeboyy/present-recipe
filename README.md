@@ -1,6 +1,7 @@
-# present_recipe
+# Present Recipe
 
-A new Flutter project.
+A Flutter project.
+Show Recipe for Your Daily
 
 ## Getting Started
 
